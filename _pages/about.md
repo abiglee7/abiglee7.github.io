@@ -13,4 +13,4 @@ I'm a finishing Ph.D. student in the UChicago Department of [Astronomy & Astroph
 
 Contact Me
 ======
-Email: abbyl at uchicago.edu \\
+Email: abbyl at uchicago.edu 
