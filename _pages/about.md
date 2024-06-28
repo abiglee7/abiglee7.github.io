@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in the UChicago Department of [Astronomy & Astrophysics](https://astrophysics.uchicago.edu/). I am an observational cosmologist. I am currently focusing on developing high-precision local distance indicators, like the JAGB method and tip of the red giant branch (TRGB), to measure the Hubble constant. 
-I received my B.A. in physics at [Penn](https://www.physics.upenn.edu/) in 2019. 
+I'm a finishing Ph.D. student in the UChicago Department of [Astronomy & Astrophysics](https://astrophysics.uchicago.edu/), working with Professor Wendy Freedman. My thesis focued on estabilishing a new high-precision standard candle, the JAGB method, to measure the Hubble constant. I am also interested developing in new techniques to reconstruct the evolutionary histories of galaxies from their stellar populations.
 
 
 Contact Me
 ======
-Email: abbyl_at_uchicago.edu \\
-Office: 5640 S Ellis Ave, Chicago, IL 60637
+Email: abbyl at uchicago.edu \\
