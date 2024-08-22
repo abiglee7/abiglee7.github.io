@@ -1,7 +1,6 @@
 ---
-permalink: /
+layout: archive
 title: "Updates"
-excerpt: "updates"
 author_profile: true
 redirect_from: 
   - /updates/
