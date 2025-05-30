@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-My CV can be downloaded [Here](../files/CV_2020 (4).pdf) (last updated Jan 2025). 
+My CV can be downloaded [Here](../files/CV_2020 (4).pdf) (last updated June 2025). 
 
 Education
 ======
