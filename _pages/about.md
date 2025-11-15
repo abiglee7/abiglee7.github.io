@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an [NHFP Hubble](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2025-nhfp-fellows) and [Miller](https://miller.berkeley.edu/fellowship/awards) fellow at UC Berkeley in the Department of Astronomy. 
+I'm an [NHFP Hubble](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2025-nhfp-fellows) and [Miller](https://miller.berkeley.edu/fellowship/awards) fellow at UC Berkeley in the Department of Astronomy. I am currently interested in using NIR observations (from JWST, Roman, Euclid, ground-based telescopes) of resolved stellar populations to learn about galaxy formation and evolution and the extragalactic distance scale. 
 
 
 Contact Me
